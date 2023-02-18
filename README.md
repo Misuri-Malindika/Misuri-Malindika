@@ -6,6 +6,4 @@
 - Currently learning several new programming languages including frameworks.
 - Skills: Python, C, HTML 5, CSS, PHP, SQL, Javascript, Adobe Photoshop, Responsive design, Pattern design
 
-<div align="center">
-  <img src="https://gifer.com/embed/Agmh" width="100"/>
-</div>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Agmh" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
