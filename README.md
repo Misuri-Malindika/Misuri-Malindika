@@ -6,4 +6,4 @@
 - Currently learning several new programming languages including frameworks.
 - Skills: Python, C, HTML 5, CSS, PHP, SQL, Javascript, Adobe Photoshop, Responsive design, Pattern design
 
-![Alt Text](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fiammmila&psig=AOvVaw1rO-Vsgg7B_xDTmd-DfXo3&ust=1676799303718000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjGuK_inv0CFQAAAAAdAAAAABAT)
