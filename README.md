@@ -6,9 +6,6 @@
 - Currently learning several new programming languages including frameworks.
 - Skills: Python, C, HTML 5, CSS, PHP, SQL, Javascript, Adobe Photoshop, Responsive design, Pattern design
 
-<p align="center">
+<p align="center" width='10' height='10'>
   <img src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="misuri-malindika-71665a24b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/misuri-malindika-71665a24b?trk=profile-badge">Misuri Malindika</a></div>
-              
