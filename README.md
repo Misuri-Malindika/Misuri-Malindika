@@ -7,6 +7,7 @@
 - Skills: Python, C, HTML 5, CSS, PHP, SQL, Javascript, Adobe Photoshop, Responsive design, Pattern design
 
 <p align="center" width='1' height='1'>
+  languages and Tools
   <img 
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
