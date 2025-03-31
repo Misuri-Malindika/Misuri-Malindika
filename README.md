@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="300px" style="margin-right: 20px;">
   
   <a href="https://git.io/typing-svg">
