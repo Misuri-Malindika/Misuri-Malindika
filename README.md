@@ -1,4 +1,16 @@
-<h1 align="center">Hola 👋</h1>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="300px" style="margin-right: 20px;">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
+  </a>
+</div>
+
+
+
+
+
+<h1 align="center">I'm Misuri 👋</h1>
 
 - ✨ Aspiring Software Quality Assurance Engineer | Undergraduate at NSBM Green University (BSc. Management Information Systems - Special)
 - 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
@@ -27,12 +39,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="300px" style="margin-right: 20px;">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
-  </a>
-</div>
 
 
