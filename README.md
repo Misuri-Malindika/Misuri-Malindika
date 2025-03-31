@@ -4,42 +4,8 @@
 - 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
 - 💡 Exploring Test Automation, Manual Testing, and Performance Testing.
 - 🔎 Currently enhancing my skills in tools like Selenium and Jira.
-- 🏆 Working as a Freelancer on FIVERR, helping clients with testing and software analysis.
+- 🏆 Working as a YouTube Content Creator.
 
----
-
-<h1 align="center">Languages and Tools</h1>
-
-- 🎥 Working as a YouTube Content Creator at **Rowoon LK**, a Sri Lankan official fan channel for Rowoon and SF9.
-
----
-
-<h1 align="center">Languages and Tools</h1>
-
-### Programming Languages:
-- Android
-- C
-- Java
-- JavaScript
-- PHP
-- Python
-
-### Web Technologies:
-- CSS3
-- HTML5
-
-### Frameworks/Libraries:
-- Flutter
-- Selenium
-
-### Databases:
-- MySQL
-- Microsoft SQL Server (MSSQL)
-
-### Tools:
-- Figma
-- Git
-- Photoshop
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
