@@ -26,3 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
+
+![Alt text]([https://raw.githubusercontent.com/Misuri-Malindika/your-repo/main/image.png](https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png))
+
