@@ -1,11 +1,12 @@
 <div>
-  <img align="left" width="38%" src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
+  <img align="left" width="38%" src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
+    >
 </div>
 
 <div>
 
-<h1 align="center" style="color: #702963;">I'm Misuri 👋</h1>
+<h1 align="center">I'm Misuri 👋</h1>
 
 - ✨ Aspiring Software Quality Assurance Engineer | Undergraduate at NSBM Green University (BSc. Management Information Systems - Special)
 - 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
