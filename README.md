@@ -27,15 +27,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="50%">
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
-    </a>
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: middle;">
+      <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="50%">
+    </td>
+    <td style="width: 50%; text-align: right; vertical-align: middle;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
+      </a>
+    </td>
+  </tr>
 </table>
+
