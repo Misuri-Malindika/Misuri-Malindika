@@ -1,14 +1,24 @@
-<h1 align="center">Hola 👋</h1>
+<h1 align="center" style="color:#A020F0; font-family: 'Comic Sans MS', cursive;">Hola 👋</h1>
 
-- ✨ Aspiring Software Quality Assurance Engineer | Undergraduate at NSBM Green University (BSc. Management Information Systems - Special, Class of 2026)
-- 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
-- 💡 Exploring Test Automation, Manual Testing, and Performance Testing.
-- 🔎 Currently enhancing my skills in tools like Selenium and Jira.
-- 🏆 Working as a YouTube Content Creator.
+<p align="center">
+  <img src="https://i.imgur.com/your-anime-banner.gif" alt="Anime Banner" width="600"/>
+</p>
 
 ---
 
-<h1 align="center">Languages and Tools</h1>
+🌸 **Aspiring Software Quality Assurance Engineer** | Undergraduate at **NSBM Green University** *(BSc. Management Information Systems - Special, Class of 2026)*
+
+💜 **Passionate about** ensuring software quality through **rigorous testing** and **continuous improvement**.
+
+🔎 Currently exploring **Test Automation, Manual Testing, and Performance Testing**.
+
+🛠️ Improving skills in **Selenium & Jira**.
+
+🎥 **YouTube Content Creator** at **Rowoon LK** 💜
+
+---
+
+<h1 align="center" style="color:#A020F0; font-family: 'Comic Sans MS', cursive;">Languages and Tools</h1>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -26,3 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+🌟 *"Turning bugs into features and tests into art."* 🌟
