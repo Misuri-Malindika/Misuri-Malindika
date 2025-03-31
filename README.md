@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=702963&width=435&lines=HI!+QA+Enthusiastic+HERE!" alt="Typing SVG">
 </div>
 
+<div>
 
-
-<h1 align="center" style="color >I'm Misuri 👋</h1>
+<h1 align="center" style="color: #702963;">I'm Misuri 👋</h1>
 
 - ✨ Aspiring Software Quality Assurance Engineer | Undergraduate at NSBM Green University (BSc. Management Information Systems - Special)
 - 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
@@ -13,8 +13,8 @@
 - 🔎 Currently enhancing my skills in tools like Selenium and Jira.
 - 🏆 Working as a YouTube Content Creator.
 
----
-
+</div>
+<div>
 <h1 align="center">Languages and Tools</h1>
 
 <p align="center">
@@ -34,5 +34,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
-
+</div>
 
