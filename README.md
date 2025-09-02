@@ -10,7 +10,7 @@
 - ✨ Aspiring Software Quality Assurance Engineer | Undergraduate at NSBM Green University (BSc. Management Information Systems - Special)
 - 🔍 Passionate about ensuring software quality through rigorous testing and continuous improvement.
 - 💡 Exploring Test Automation, Manual Testing, and Performance Testing.
-- 🔎 Currently enhancing my skills in tools like Selenium and Jira.
+- 🔎 Currently enhancing my skills in tools like Selenium, Jira, and JMeter.
 - 🏆 Working as a YouTube Content Creator.
 
 </div>
