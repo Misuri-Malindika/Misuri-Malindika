@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Misuri-Malindika/Misuri-Malindika/blob/main/octocat-1743408463915.png" width="200" align="left" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=702963&center=true&vCenter=true&width=435&lines=HI!+QA+Enthusiastic+HERE!;Aspiring+QA+Engineer;Always+Testing+&+Improving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=702963&center=true&vCenter=true&width=435&lines=QA+Enthusiastic+HERE!;Aspiring+QA+Engineer;Always+Testing+&+Improving" alt="Typing SVG">
   <br><br><br>
 </p>
 
